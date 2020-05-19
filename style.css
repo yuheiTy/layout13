@@ -1,0 +1,14 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    background: red;
+    border: 1px solid black;
+    margin: auto;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    height: 500px;
+}
